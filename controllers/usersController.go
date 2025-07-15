@@ -13,7 +13,7 @@ import (
 )
 
 
-func Singup(C *gin.Context){
+func Signup(C *gin.Context){
 
 	// Get the email and password off the req body
 
